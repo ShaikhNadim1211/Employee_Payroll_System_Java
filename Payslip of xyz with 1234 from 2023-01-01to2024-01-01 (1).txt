@@ -1,0 +1,18 @@
+xyz, Employee ID is 1234
+Payment Details.....For 12.0 Month
+Increment!!!!!
+Initial Salary: 300000.0
+Overtime Amount: 0.0
+Bonus Amount: 2000.0
+Commission Amount: 0.0
+Additional Amount: 500.0
+Decrement!!!!!
+Leave Amount: 4166.666666666667
+Income Tax: 15000.0
+Health Insurance: 9000.0
+Provident Fund: 6000.0
+Proffessional Tax: 200.0
+Other Decrement: 0.0
+The Gross Salary Is 302500.0
+The Deduction Amount Is 34366.66666666667
+The Net Salary Is 268133.3333333333
