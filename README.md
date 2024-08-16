@@ -47,3 +47,4 @@ Ensure you have the following Java packages or imports ready:
 4. After the calculation, you can choose to create a payslip by pressing `1`, which will generate a `.txt` file with the payslip details in the project directory.
 
 ### Example Input/Output
+![Payroll](https://github.com/user-attachments/assets/9fd44a21-aba9-4f3a-8e18-5db80865c2bd)
